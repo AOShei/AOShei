@@ -1,4 +1,4 @@
-# Hi, I'm Andrew O'Shei 👋
+# Hi, I'm Andrew O'Shei
 
 ### Innovation Architect & Adjunct Professor
 **Bridging the gap between AI, Robotics, and Scalable Engineering.**
