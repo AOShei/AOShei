@@ -3,7 +3,7 @@
 ### Innovation Architect & Adjunct Professor
 **Bridging the gap between AI, Robotics, and Scalable Engineering.**
 
-I specialize in building intelligent systems that interact with the physical world. My work spans from high-performance backend libraries in Go to autonomous robotics systems using ROS 2.
+I specialize in building intelligent systems that interact with the physical world. My work spans from high-performance backend libraries in Python and Go to autonomous robotics systems using ROS 2.
 
 ---
 
