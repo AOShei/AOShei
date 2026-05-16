@@ -25,7 +25,7 @@ This is where I host all materials for my university courses.
 ### 🤖 [Shei Designs](https://github.com/Shei-Designs) 
 This is where I host creative projects related to multimedia production and live performance.
 * **Focus:** Open Source and Open Hardware projects related to interdisciplinary art and performance.
-* **Goal:** Creating accessible, high-performance creative tools for the artistic community, creators and Audio/Visual designers and technicians.
+* **Goal:** Creating accessible, high-performance creative tools for the artists, musicians, creators, Audio/Visual designers and technicians.
 
 ---
 
