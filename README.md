@@ -23,9 +23,9 @@ This is where I host all materials for my university courses.
 * **Goal:** Providing students with production-grade templates and open-access learning paths.
 
 ### 🤖 [Shei Designs](https://github.com/Shei-Designs) 
-*Coming Soon — My lab for open-source hardware.*
-* **Focus:** Open-hardware designs for robotics and IoT.
-* **Goal:** Creating accessible, high-performance hardware blueprints for the robotics community.
+This is where I host creative projects related to multimedia production and live performance.
+* **Focus:** Open Source and Open Hardware projects related to interdisciplinary art and performance.
+* **Goal:** Creating accessible, high-performance creative tools for the artistic community, creators and Audio/Visual designers and technicians.
 
 ---
 
